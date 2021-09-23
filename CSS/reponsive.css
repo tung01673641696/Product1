@@ -1,0 +1,263 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+    header {
+        padding: 30px 50px;
+    }
+
+    header .header__bars {
+        display: block;
+    }
+
+    header .header__logo--mobile {
+        display: block;
+    }
+
+    header .header__search--mobile {
+        display: block;
+    }
+
+    header .header__logo {
+        display: none;
+    }
+
+    header .header__nav {
+        display: none;
+    }
+
+    header .header__search {
+        display: none;
+    }
+
+    .products {
+        padding: 50px;
+    }
+
+    .products .product__child {
+        width: calc(100% / 2 - 15px);
+        margin-bottom: 30px;
+    }
+
+    .list {
+        padding: 0px 50px 50px 50px;
+    }
+
+    .list .list__title h2 {
+        font-size: 32px;
+    }
+
+    .list .list__content ul {
+        margin: 50px 0 50px 0;
+    }
+
+    .notification .notification__title {
+        background-size: cover;
+        padding: 50px 0 200px 0;
+    }
+
+    .notification .notification__content .owl-carousel {
+        padding: 0 50px;   
+    }
+
+    .special {
+        padding: 50px;
+    }
+}
+
+
+@media (min-width:768px) and (max-width:991px) {
+    header {
+        padding: 30px 50px;
+    }
+
+    header .header__bars {
+        display: block;
+    }
+
+    header .header__logo--mobile {
+        display: block;
+    }
+
+    header .header__search--mobile {
+        display: block;
+    }
+
+    header .header__logo {
+        display: none;
+    }
+
+    header .header__nav {
+        display: none;
+    }
+
+    header .header__search {
+        display: none;
+    }
+
+    .banner__child span {
+        font-size: 18px;
+    }
+
+    .banner__child h2 {
+        font-size: 36px;
+    }
+
+    .banner__child p {
+        color: #ffffff;
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    
+
+    .products {
+        padding: 50px;
+    }
+
+    .products .product__child {
+        width: calc(100% / 2 - 15px);
+        margin-bottom: 30px;
+    }
+
+    .list {
+        padding: 0px 50px 50px 50px;
+    }
+
+    .list .list__title h2 {
+        font-size: 32px;
+    }
+
+    .list .list__content ul {
+        margin: 50px 0 30px 0;
+    }
+
+    .list .list__content .list__child {
+        width: calc(100% / 3 - 20px);
+        margin-bottom: 40px;
+    }
+
+    .notification .notification__title {
+        padding: 50px 0 150px 0;
+    }
+
+    .notification .notification__content {
+        margin-top: -50px;
+    }
+
+    .notification .notification__content .owl-carousel {
+        padding: 0 50px;   
+    }
+
+    .special {
+        padding: 50px;
+    }
+
+    footer .footer__register .content .content__search {
+        width: 40%;
+        margin-top: 20px;
+    }
+}
+
+
+@media (min-width:576px) and (max-width:767px) {
+    header {
+        padding: 30px 50px;
+    }
+
+    header .header__bars {
+        display: block;
+    }
+
+    header .header__logo--mobile {
+        display: block;
+    }
+
+    header .header__search--mobile {
+        display: block;
+    }
+
+    header .header__logo {
+        display: none;
+    }
+
+    header .header__nav {
+        display: none;
+    }
+
+    header .header__search {
+        display: none;
+    }
+
+    .banner__child span {
+        font-size: 14px;
+    }
+
+    .banner__child h2 {
+        font-size: 32px;
+        margin: 10px 0;
+    }
+
+    .banner__child p {
+        margin-bottom: 10px;
+    }
+
+    .products {
+        padding: 50px;
+    }
+
+    .products .product__child {
+        width: calc(100% / 2 - 10px);
+        margin-bottom: 20px;
+    }
+
+    .list {
+        padding: 0px 50px 50px 50px;
+    }
+
+    .list .list__title h2 {
+        font-size: 32px;
+    }
+
+    .list .list__content ul {
+        margin: 50px 0 30px 0;
+    }
+
+    .list .list__content .list__child {
+        width: calc(100% / 2 - 20px);
+        margin-bottom: 40px;
+    }
+
+    .notification .notification__title {
+        padding: 50px 0 150px 0;
+    }
+
+    .notification .notification__content {
+        margin-top: -50px;
+    }
+
+    .notification .notification__content .owl-carousel {
+        padding: 0 50px;   
+    }
+
+    .special {
+        padding: 50px;
+    }
+
+    footer .footer__content {
+        padding: 70px 50px;
+    }
+
+    footer .footer__register .content .content__search {
+        width: 45%;
+        margin-top: 20px;
+    }
+
+    footer .footer__content .footer__content--child {
+        margin-bottom: 40px;
+    }
+
+    footer .footer__content .footer__content--child h4 {
+        margin-left: 20%;
+    }
+
+    footer .footer__content .footer__content--child .link {
+        text-align: center;
+    }
+}
