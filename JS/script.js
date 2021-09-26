@@ -1,4 +1,6 @@
-$('.owl-carousel').owlCarousel({
+const value = document.querySelector('.owl-carousel')
+
+$(value).owlCarousel({
     loop:true,
     margin:10,
     nav:false,
